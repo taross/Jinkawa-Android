@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

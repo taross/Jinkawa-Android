@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/color/abc_hint_foreground_material_dark.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
