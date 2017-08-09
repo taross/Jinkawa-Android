@@ -11,7 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/values-land/values-land.xml",
+                    "file": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/values-land/values-land.xml",
+                    "file": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/values-land/values-land.xml",
+                    "file": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,13 +68,34 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "/Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/res/values-land/values-land.xml",
+                    "file": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
                         "startOffset": 260,
                         "endColumn": 67,
                         "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Users/taross/.android/build-cache/9064d4c65198f12d207b1c80b96c3b46d146cb5b/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
                     }
                 }
             }

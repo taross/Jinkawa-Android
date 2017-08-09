@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/taross/.android/build-cache/50729b022b253a8f0d2c426d12dacce9224859b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/classes_7b4251f591116fc61455e3e565388ee07113c366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taross/.android/build-cache/9cbc9ddde4d79ff408eaa6f9bfd790db3068d606/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/classes_20983665eccbd8941f2aeaa7119332a14d623b56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taross/.android/build-cache/5ed9bef025e5dfbb91484563225a503ab016cbfb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/classes_96499dca81844fa503a3f09208626fed4c6f2bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/classes_bc78a839d88db1232394ef2e257964f88d1054da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taross/.android/build-cache/f7644e2e12934fcb64900a1d5384b5b71d99d428/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/classes_8840da5c39c59aa316d28be5f4a22998752541b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taross/.android/build-cache/7cd60668651371355195691eb9b175368d041320/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/classes_e20a414998f1d54e3a31f1b2e4087274a7a40fd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taross/.android/build-cache/18aa89b6c268f33fe82c89aeffe907091baa833d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/classes_cc77623449d58459456e29f6223cefa40de3d9c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taross/.android/build-cache/aa0ce47b649163f3291f3459d3fcf08795a95341/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/classes_fc0c6d53c1b3ba038eaf5b5500fabee8f6ba2a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taross/.android/build-cache/3cd4cff58e99e0b8aeee14e14b33b92a773b293f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/classes_1dd2c2ba3e73a420483a97b507cde8158f48ac21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taross/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_a1c0f713ecbc3ac7e9e0def057166a38a0ecad14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taross/.android/build-cache/9064d4c65198f12d207b1c80b96c3b46d146cb5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/classes_565f53839d0a9066ffdf435c92c5ee84c3a2f883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taross/.android/build-cache/97c360023c178c2cdce909a5e033aed3c0f1f6ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/classes_3d5ea57e4fbb39c26c54006e3d69d9346a4e3451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taross/.android/build-cache/5e9a64fea07bee4287554ce4a0b41add466f8342/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/classes_3dd5fd05745842f38df6fdec57665be47501e14c.jar" />
+    </item>
+
+</items>
