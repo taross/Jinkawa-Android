@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:3:5-49
 		INJECTED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml
@@ -14,17 +14,19 @@ ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.x
 		INJECTED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.0] /Users/taross/.android/build-cache/d545eb72b5880cb122f10817c5b9bebd053d3f5b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.0] /Users/taross/.android/build-cache/27d913f48df50f3be79ca43c655d3f212e12daf1/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.0] /Users/taross/.android/build-cache/71e11fb566d07ebb8a168badd7862ef78505a10b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.0] /Users/taross/.android/build-cache/8c593a30fc416f88cb0299029f2214fb49a7a0b9/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.0] /Users/taross/.android/build-cache/0f10eb354a5335a7689a1fad81889f958cd9fb5d/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/taross/.android/build-cache/0a4f595a8c0d56da0c60b6dd7cffe1a7f1defe84/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/taross/.android/build-cache/ca651e9e4dca6108a34311404a5351719b82bbcd/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.0] /Users/taross/.android/build-cache/531a50d1fc857c60b560da5d2bdc7b7caa07f76f/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taross/.android/build-cache/e387cbd14dfecc6f7fb7225c288fd20e42af68cb/output/AndroidManifest.xml:9:5-20
+ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taross/.android/build-cache/bfce0452ff82b8eba21ab584e6764d5fdbaf3e38/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/taross/.android/build-cache/9064d4c65198f12d207b1c80b96c3b46d146cb5b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/taross/.android/build-cache/5ed9bef025e5dfbb91484563225a503ab016cbfb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/taross/.android/build-cache/97c360023c178c2cdce909a5e033aed3c0f1f6ee/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/taross/.android/build-cache/5e9a64fea07bee4287554ce4a0b41add466f8342/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/taross/.android/build-cache/3cd4cff58e99e0b8aeee14e14b33b92a773b293f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/taross/.android/build-cache/9cbc9ddde4d79ff408eaa6f9bfd790db3068d606/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/taross/.android/build-cache/18aa89b6c268f33fe82c89aeffe907091baa833d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/taross/.android/build-cache/7cd60668651371355195691eb9b175368d041320/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/taross/.android/build-cache/50729b022b253a8f0d2c426d12dacce9224859b0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/taross/.android/build-cache/f7644e2e12934fcb64900a1d5384b5b71d99d428/output/AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -36,7 +38,7 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taro
 	android:icon
 		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:11:9-65
 activity#com.example.taross.jinkawa_android.MainActivity
 ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
@@ -51,20 +53,31 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.taross.jinkawa_android.EventListActivity
+ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:19:9-22:81
+	android:label
+		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:21:13-62
+	android:theme
+		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:22:13-69
+	android:name
+		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:20:13-46
 uses-sdk
 INJECTED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.0] /Users/taross/.android/build-cache/d545eb72b5880cb122f10817c5b9bebd053d3f5b/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.0] /Users/taross/.android/build-cache/27d913f48df50f3be79ca43c655d3f212e12daf1/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.0] /Users/taross/.android/build-cache/71e11fb566d07ebb8a168badd7862ef78505a10b/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.0] /Users/taross/.android/build-cache/8c593a30fc416f88cb0299029f2214fb49a7a0b9/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.0] /Users/taross/.android/build-cache/0f10eb354a5335a7689a1fad81889f958cd9fb5d/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/taross/.android/build-cache/0a4f595a8c0d56da0c60b6dd7cffe1a7f1defe84/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/taross/.android/build-cache/ca651e9e4dca6108a34311404a5351719b82bbcd/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.0] /Users/taross/.android/build-cache/531a50d1fc857c60b560da5d2bdc7b7caa07f76f/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taross/.android/build-cache/e387cbd14dfecc6f7fb7225c288fd20e42af68cb/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taross/.android/build-cache/bfce0452ff82b8eba21ab584e6764d5fdbaf3e38/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /Users/taross/.android/build-cache/9064d4c65198f12d207b1c80b96c3b46d146cb5b/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/taross/.android/build-cache/5ed9bef025e5dfbb91484563225a503ab016cbfb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/taross/.android/build-cache/97c360023c178c2cdce909a5e033aed3c0f1f6ee/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/taross/.android/build-cache/aa0ce47b649163f3291f3459d3fcf08795a95341/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/taross/.android/build-cache/5e9a64fea07bee4287554ce4a0b41add466f8342/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/taross/.android/build-cache/3cd4cff58e99e0b8aeee14e14b33b92a773b293f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/taross/.android/build-cache/9cbc9ddde4d79ff408eaa6f9bfd790db3068d606/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/taross/.android/build-cache/18aa89b6c268f33fe82c89aeffe907091baa833d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/taross/.android/build-cache/7cd60668651371355195691eb9b175368d041320/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/taross/.android/build-cache/50729b022b253a8f0d2c426d12dacce9224859b0/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/taross/.android/build-cache/f7644e2e12934fcb64900a1d5384b5b71d99d428/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:design:25.3.1] /Users/taross/.android/build-cache/9064d4c65198f12d207b1c80b96c3b46d146cb5b/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml
@@ -72,16 +85,19 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taro
 		INJECTED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.0] /Users/taross/.android/build-cache/d545eb72b5880cb122f10817c5b9bebd053d3f5b/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.0] /Users/taross/.android/build-cache/27d913f48df50f3be79ca43c655d3f212e12daf1/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.0] /Users/taross/.android/build-cache/71e11fb566d07ebb8a168badd7862ef78505a10b/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.0] /Users/taross/.android/build-cache/8c593a30fc416f88cb0299029f2214fb49a7a0b9/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.0] /Users/taross/.android/build-cache/0f10eb354a5335a7689a1fad81889f958cd9fb5d/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/taross/.android/build-cache/0a4f595a8c0d56da0c60b6dd7cffe1a7f1defe84/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/taross/.android/build-cache/ca651e9e4dca6108a34311404a5351719b82bbcd/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.0] /Users/taross/.android/build-cache/531a50d1fc857c60b560da5d2bdc7b7caa07f76f/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] /Users/taross/.android/build-cache/9064d4c65198f12d207b1c80b96c3b46d146cb5b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/taross/.android/build-cache/5ed9bef025e5dfbb91484563225a503ab016cbfb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/taross/.android/build-cache/97c360023c178c2cdce909a5e033aed3c0f1f6ee/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/taross/.android/build-cache/aa0ce47b649163f3291f3459d3fcf08795a95341/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/taross/.android/build-cache/5e9a64fea07bee4287554ce4a0b41add466f8342/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/taross/.android/build-cache/3cd4cff58e99e0b8aeee14e14b33b92a773b293f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/taross/.android/build-cache/9cbc9ddde4d79ff408eaa6f9bfd790db3068d606/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/taross/.android/build-cache/18aa89b6c268f33fe82c89aeffe907091baa833d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/taross/.android/build-cache/7cd60668651371355195691eb9b175368d041320/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/taross/.android/build-cache/50729b022b253a8f0d2c426d12dacce9224859b0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/taross/.android/build-cache/f7644e2e12934fcb64900a1d5384b5b71d99d428/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] /Users/taross/.android/build-cache/9064d4c65198f12d207b1c80b96c3b46d146cb5b/output/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/taross/.android/build-cache/fe2b5aa6458b9f0ffe5695698a8d901aebfeaf6a/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] /Users/taross/.android/build-cache/9064d4c65198f12d207b1c80b96c3b46d146cb5b/output/AndroidManifest.xml:26:9-47
