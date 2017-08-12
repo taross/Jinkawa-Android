@@ -48,6 +48,10 @@
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable/ic_storage_black_24dp.xml",
+        "source": "/Users/taross/Projects/Jinkawa-Android/app/src/main/res/drawable/ic_storage_black_24dp.xml"
+    },
+    {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/drawable/abc_switch_thumb_material.xml"
     },
