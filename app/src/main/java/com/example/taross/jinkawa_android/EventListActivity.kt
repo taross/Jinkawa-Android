@@ -17,6 +17,7 @@ import android.view.Menu
 import android.view.MenuItem
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ListView
 
 import android.widget.TextView
 import com.example.taross.model.Event
@@ -116,7 +117,10 @@ class EventListActivity : AppCompatActivity() {
         override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?,
                                   savedInstanceState: Bundle?): View? {
             val rootView = inflater!!.inflate(R.layout.fragment_event_list, container, false)
-
+            val listAdapter = EventListAdapter(context)
+            listAdapter.items = listOf(Event("01","taross"))
+            val listView = rootView.findViewById(R.id.event_listView) as ListView
+            listView.adapter = listAdapter
             return rootView
         }
 

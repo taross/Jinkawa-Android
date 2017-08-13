@@ -5,6 +5,9 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.content.Context
+import com.example.taross.model.Event
+import com.example.taross.view.EventItemView
 
 class MainActivity : AppCompatActivity() {
 
@@ -16,5 +19,6 @@ class MainActivity : AppCompatActivity() {
                 val intent = Intent(application, EventListActivity::class.java)
                 startActivity(intent)
         })
+
     }
 }
