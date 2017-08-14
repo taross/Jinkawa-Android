@@ -30,6 +30,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/taross/Projects/Jinkawa-Android/app/libs/NCMB.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d96d3db359d528829687ac582ac59e91f9a089f">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/NCMB_6bd2e9a8faed54417415f7c9dddd128cbeb70c6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -99,6 +108,15 @@
         revision="25.0.2"
         sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
         <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/classes_565f53839d0a9066ffdf435c92c5ee84c3a2f883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taross/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/pre-dexed/debug/gson-2.3.1_f06ffe721f02564fa184d92f22a8aed9eb0e5675.jar" />
     </item>
     <item
         is-multidex="false"

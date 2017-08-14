@@ -1,3 +1,7 @@
+
+/**
+ * Created by taross on 2017/08/14.
+ */
 package com.example.taross.jinkawa_android
 
 import android.content.Context
@@ -5,8 +9,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.BaseAdapter
 
-import com.example.taross.model.Event
-import com.example.taross.view.EventItemView
+import com.example.taross.model.Notice
+import com.example.taross.view.NoticeItemView
 import com.nifty.cloud.mb.core.NCMB
 import com.nifty.cloud.mb.core.NCMBException
 import com.nifty.cloud.mb.core.NCMBObject
@@ -18,8 +22,8 @@ import com.nifty.cloud.mb.core.NCMBQuery
  * Created by taross on 2017/08/12.
  */
 
-class EventListAdapter(private val context: Context): BaseAdapter(){
-    var items: MutableList<Event> = eventLoad()
+class NoticeListAdapter(private val context: Context): BaseAdapter(){
+    var items: MutableList<Notice> = noticeLoad()
 
     override fun getCount(): Int = items.size
 
@@ -27,23 +31,23 @@ class EventListAdapter(private val context: Context): BaseAdapter(){
 
     override fun getItemId(position: Int): Long = 0
 
-    override fun getView(position: Int, convertView: View?, parent: ViewGroup?): View = ((convertView as? EventItemView) ?: EventItemView(context)).apply {
+    override fun getView(position: Int, convertView: View?, parent: ViewGroup?): View = ((convertView as? NoticeItemView) ?: NoticeItemView(context)).apply {
         setItem(items[position])
     }
 
-    fun eventLoad():MutableList<Event>{
-        val eveltList:MutableList<Event> = mutableListOf<Event>()
+    fun noticeLoad():MutableList<Notice>{
+        val noticeList:MutableList<Notice> = mutableListOf<Notice>()
 
-        val query:NCMBQuery<NCMBObject> = NCMBQuery("Event")
+        val query: NCMBQuery<NCMBObject> = NCMBQuery("Information")
         val results: List<NCMBObject> = try {
             query.find()
         } catch (e : Exception) { emptyList<NCMBObject>() }
         if (results.isNotEmpty()) {
             for(result in results){
-                val event: Event = Event(result.getString("event_name"))
-                eveltList.add(event)
+                val notice: Notice = Notice(result.getString("title"))
+                noticeList.add(notice)
             }
         }
-        return eveltList
+        return noticeList
     }
 }
