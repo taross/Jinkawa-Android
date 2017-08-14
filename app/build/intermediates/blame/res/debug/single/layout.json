@@ -28,16 +28,16 @@
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/fragment_event_list.xml",
-        "source": "/Users/taross/Projects/Jinkawa-Android/app/src/main/res/layout/fragment_event_list.xml"
-    },
-    {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/fragment_list.xml",
+        "source": "/Users/taross/Projects/Jinkawa-Android/app/src/main/res/layout/fragment_list.xml"
     },
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
@@ -48,16 +48,12 @@
         "source": "/Users/taross/.android/build-cache/9064d4c65198f12d207b1c80b96c3b46d146cb5b/output/res/layout/design_text_input_password_icon.xml"
     },
     {
-        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/activity_event_list.xml",
-        "source": "/Users/taross/Projects/Jinkawa-Android/app/src/main/res/layout/activity_event_list.xml"
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
@@ -66,6 +62,10 @@
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/noticelist_item.xml",
+        "source": "/Users/taross/Projects/Jinkawa-Android/app/src/main/res/layout/noticelist_item.xml"
     },
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
@@ -206,6 +206,10 @@
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
         "source": "/Users/taross/.android/build-cache/9064d4c65198f12d207b1c80b96c3b46d146cb5b/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/activity_list.xml",
+        "source": "/Users/taross/Projects/Jinkawa-Android/app/src/main/res/layout/activity_list.xml"
     },
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
