@@ -8,12 +8,19 @@ import android.support.v4.app.FragmentManager
 import android.support.v4.app.FragmentPagerAdapter
 import android.support.v4.view.ViewPager
 import android.os.Bundle
+import android.os.Parcelable
 import android.view.LayoutInflater
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ListView
+import android.content.Intent
+import android.support.design.widget.FloatingActionButton
+import android.support.design.widget.Snackbar
+
+import com.example.taross.jinkawa_android.EventDetailActivity
+
 
 class ListActivity : AppCompatActivity() {
 
@@ -50,6 +57,12 @@ class ListActivity : AppCompatActivity() {
         tabLayout.setupWithViewPager(mViewPager)
 
         tabLayout.getTabAt(0)?.setIcon(R.drawable.ic_storage_black_24dp)
+
+        val fab = findViewById(R.id.fab) as FloatingActionButton
+        fab.setOnClickListener { view ->
+            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                    .setAction("Action", null).show()
+        }
     }
 
 
@@ -121,6 +134,14 @@ class ListActivity : AppCompatActivity() {
             }
 
             listView.adapter = listAdapter
+            listView.setOnItemClickListener { parent, view, position, id ->
+                when (page) {
+                    1 -> EventDetailActivity.intent(context, EventListAdapter(context).items[position]).let {
+                        startActivity(it)
+                    }
+                }
+            }
+
             return rootView
         }
 

@@ -34,6 +34,18 @@
             android:name="com.example.taross.jinkawa_android.ListActivity"
             android:label="@string/title_activity_event_list"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.example.taross.jinkawa_android.DetailActivity"
+            android:label="@string/title_activity_detail"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.example.taross.jinkawa_android.eActivity"
+            android:label="@string/title_activity_e"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.example.taross.jinkawa_android.EventDetailActivity"
+            android:label="@string/title_activity_event_detail"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
     </application>
 
 </manifest>

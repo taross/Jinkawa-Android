@@ -5,4 +5,7 @@
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="title_activity_v">v</string>
     <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_e">eActivity</string>
+    <string name="title_activity_event_detail">EventDetailActivity</string>
 </resources>
