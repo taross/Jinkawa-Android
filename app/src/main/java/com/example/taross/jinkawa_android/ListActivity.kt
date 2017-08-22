@@ -58,10 +58,17 @@ class ListActivity : AppCompatActivity() {
 
         tabLayout.getTabAt(0)?.setIcon(R.drawable.ic_storage_black_24dp)
 
-        val fab = findViewById(R.id.fab) as FloatingActionButton
-        fab.setOnClickListener { view ->
-            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                    .setAction("Action", null).show()
+        if (LoginManager.isLogin) {
+            val fab = findViewById(R.id.fab) as FloatingActionButton
+            fab.show()
+            fab.setOnClickListener { view ->
+                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                        .setAction("Action", null).show()
+            }
+        }
+        else{
+            val fab = findViewById(R.id.fab) as FloatingActionButton
+            fab.hide()
         }
     }
 
