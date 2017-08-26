@@ -26,7 +26,20 @@ class EventDetailActivity : AppCompatActivity() {
 
         val event:Event = intent.getParcelableExtra(ITEM_EXTRA)
 
-        val text = findViewById(R.id.textView) as TextView
-        text.text = event.title
+        val toolBar = findViewById(R.id.detail_toolbar) as Toolbar
+        toolBar.title = event.title
+
+        val departmentTextView = findViewById(R.id.detail_department_name) as TextView
+        departmentTextView.text = event.department
+
+        val dateTextView = findViewById(R.id.detail_date) as TextView
+        dateTextView.text = event.date
+
+        val locationTextView = findViewById(R.id.detail_location) as TextView
+        locationTextView.text = event.location
+
+        val capacityTextView = findViewById(R.id.detail_capacity) as TextView
+        capacityTextView.text = event.capacity
+
     }
 }
