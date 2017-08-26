@@ -40,7 +40,14 @@ class EventListAdapter(private val context: Context): BaseAdapter(){
         } catch (e : Exception) { emptyList<NCMBObject>() }
         if (results.isNotEmpty()) {
             for(result in results){
-                val event: Event = Event(result.getString("event_name"))
+                val event: Event = Event(
+                        result.getString("event_name"),
+                        result.getString("objectId"),
+                        result.getString("event_department_name"),
+                        result.getString("day"),
+                        result.getString("location"),
+                        result.getString("capacity")
+                )
                 eveltList.add(event)
             }
         }
