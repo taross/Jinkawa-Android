@@ -16,7 +16,8 @@
         android:background="@color/jipriMainColor"
         android:minHeight="?attr/actionBarSize"
         android:title="イベント詳細"
-        android:titleTextColor="@color/white"/>
+        android:titleTextColor="@color/white"
+        android:popupTheme="@style/PopupOverlay"/>
 
     <ImageView
         android:id="@+id/imageView"

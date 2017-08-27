@@ -7,7 +7,7 @@ import android.provider.Telephony
 /**
  * Created by taross on 2017/08/26.
  */
- data class Participant(val name:String, val age:String, val tell:String, val address:String, val gender:String):Parcelable{
+ data class Participant(val name:String, val age:String, val tel:String, val address:String, val gender:String):Parcelable{
     companion object {
         @JvmField
         val CREATOR: Parcelable.Creator<Participant> = object : Parcelable.Creator<Participant>{
