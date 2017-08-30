@@ -55,4 +55,10 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:text="上限なし" />
+
+    <Button
+        android:id="@+id/button_entry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="行きたい！" />
 </LinearLayout>

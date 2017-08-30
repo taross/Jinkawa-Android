@@ -10,6 +10,7 @@ import android.support.v7.widget.Toolbar
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
+import android.widget.Button
 import android.widget.TextView
 import com.example.taross.model.Event
 
@@ -43,6 +44,11 @@ class EventDetailActivity : AppCompatActivity() {
 
         val capacityTextView = findViewById(R.id.detail_capacity) as TextView
         capacityTextView.text = event.capacity
+
+        val entryButton = findViewById(R.id.button_entry) as Button
+        entryButton.setOnClickListener({
+            startActivity(Intent(applicationContext, EntryActivity::class.java))
+        })
 
     }
 
