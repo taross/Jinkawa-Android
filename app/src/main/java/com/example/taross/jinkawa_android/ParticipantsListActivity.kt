@@ -13,7 +13,7 @@ class ParticipantsListActivity : AppCompatActivity() {
 
         val listView = findViewById(R.id.participant_list) as ListView
         val adapter = ParticipantsListAdapter(applicationContext)
-
+        adapter.filterParticipants(intent.getStringExtra("EVENT_ID_EXTRA"))
         listView.adapter = adapter
     }
 }

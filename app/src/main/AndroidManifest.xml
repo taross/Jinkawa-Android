@@ -37,7 +37,8 @@
             android:label="@string/title_activity_event_detail"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity android:name=".ParticipantsListActivity" />
-        <activity android:name=".EntryActivity"></activity>
+        <activity android:name=".EntryActivity" />
+        <activity android:name=".EventCreateActivity"></activity>
     </application>
 
 </manifest>

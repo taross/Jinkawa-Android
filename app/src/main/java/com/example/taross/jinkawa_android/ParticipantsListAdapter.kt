@@ -17,6 +17,7 @@ import  com.example.taross.view.ParticipantItemView
 
 class ParticipantsListAdapter(private val context: Context):BaseAdapter(){
     var items: MutableList<Participant> = participantLoad()
+    var eventId: String = ""
 
     override fun getCount(): Int = items.size
 
@@ -29,7 +30,7 @@ class ParticipantsListAdapter(private val context: Context):BaseAdapter(){
     }
 
     fun participantLoad():MutableList<Participant>{
-        val eveltList:MutableList<Participant> = mutableListOf<Participant>()
+        val participantList:MutableList<Participant> = mutableListOf<Participant>()
 
         val query: NCMBQuery<NCMBObject> = NCMBQuery("Participants")
         val results: List<NCMBObject> = try {
@@ -42,11 +43,18 @@ class ParticipantsListAdapter(private val context: Context):BaseAdapter(){
                         result.getString("age"),
                         result.getString("tell"),
                         result.getString("address"),
-                        result.getString("sex")
+                        result.getString("sex"),
+                        result.getString("eventID")
                 )
-                eveltList.add(participant)
+
+                participantList.add(participant)
             }
         }
-        return eveltList
+        return participantList
     }
+
+    fun filterParticipants(eventId: String) {
+        this.items = items.filter { it.eventId == eventId }.toMutableList()
+    }
+
 }

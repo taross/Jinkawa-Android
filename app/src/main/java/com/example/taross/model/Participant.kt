@@ -3,11 +3,15 @@ package com.example.taross.model
 import android.os.Parcel
 import android.os.Parcelable
 import android.provider.Telephony
+import com.nifty.cloud.mb.core.NCMB
+import com.nifty.cloud.mb.core.NCMBException
+import com.nifty.cloud.mb.core.NCMBObject
 
 /**
  * Created by taross on 2017/08/26.
  */
- data class Participant(val name:String, val age:String, val tel:String, val address:String, val gender:String):Parcelable{
+ data class Participant(var name:String = "", var age:String = "", val tel:String = "", val address:String = "", val gender:String = "", val eventId: String = ""):Parcelable{
+
     companion object {
         @JvmField
         val CREATOR: Parcelable.Creator<Participant> = object : Parcelable.Creator<Participant>{
@@ -25,4 +29,16 @@ import android.provider.Telephony
     }
 
     override fun describeContents(): Int = 0
+
+    fun save(eventId :String){
+        val data = NCMBObject("Participants")
+        data.put("name", this.name)
+        data.put("sex",this.gender)
+        data.put("age", this.age)
+        data.put("tell", this.tel)
+        data.put("address", this.address)
+        data.put("eventID", eventId )
+
+        data.save()
+    }
 }

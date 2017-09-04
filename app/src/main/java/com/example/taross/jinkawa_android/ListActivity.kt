@@ -50,8 +50,9 @@ class ListActivity : AppCompatActivity() {
         mSectionsPagerAdapter = SectionsPagerAdapter(supportFragmentManager)
 
         // Set up the ViewPager with the sections adapter.
-        mViewPager = findViewById(R.id.container) as ViewPager
-        mViewPager!!.adapter = mSectionsPagerAdapter
+        val mViewPager = findViewById(R.id.container) as ViewPager
+        mViewPager.adapter = mSectionsPagerAdapter
+
 
         val tabLayout = findViewById(R.id.tabs) as TabLayout
         tabLayout.setupWithViewPager(mViewPager)
@@ -61,9 +62,10 @@ class ListActivity : AppCompatActivity() {
         if (LoginManager.isLogin) {
             val fab = findViewById(R.id.fab) as FloatingActionButton
             fab.show()
-            fab.setOnClickListener { view ->
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show()
+            fab.setOnClickListener {
+                if(mViewPager.currentItem == 0) {
+                    startActivity(Intent(applicationContext, EventCreateActivity::class.java))
+                }
             }
         }
         else{

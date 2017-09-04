@@ -31,4 +31,5 @@ data class Event(val title: String, val id:String, val department:String, val da
             writeString(capacity)
         }
     }
+
 }
