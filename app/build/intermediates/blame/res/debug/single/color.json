@@ -4,6 +4,10 @@
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
@@ -12,12 +16,20 @@
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/color/abc_primary_text_material_light.xml"
     },
     {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",

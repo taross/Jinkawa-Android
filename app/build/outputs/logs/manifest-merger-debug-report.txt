@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:2:1-41:12
+ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:2:1-44:12
 	package
 		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:3:5-49
 		INJECTED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml
@@ -15,20 +15,32 @@ ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.x
 		INJECTED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/taross/.android/build-cache/c2a94aa2882beb1ae723dbcabf6a3c80b5edee50/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/taross/.android/build-cache/eb3a8b7642661e4ecdaedee1c92330e5a58605b2/output/AndroidManifest.xml:19:5-66
 	android:name
 		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/taross/.android/build-cache/c2a94aa2882beb1ae723dbcabf6a3c80b5edee50/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/taross/.android/build-cache/eb3a8b7642661e4ecdaedee1c92330e5a58605b2/output/AndroidManifest.xml:20:5-78
 	android:name
 		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:8:5-39:19
+ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:8:5-42:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taross/.android/build-cache/bfce0452ff82b8eba21ab584e6764d5fdbaf3e38/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] /Users/taross/.android/build-cache/9064d4c65198f12d207b1c80b96c3b46d146cb5b/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/taross/.android/build-cache/5ed9bef025e5dfbb91484563225a503ab016cbfb/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/taross/.android/build-cache/97c360023c178c2cdce909a5e033aed3c0f1f6ee/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:transition:25.3.1] /Users/taross/.android/build-cache/5e9a64fea07bee4287554ce4a0b41add466f8342/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/taross/.android/build-cache/c2a94aa2882beb1ae723dbcabf6a3c80b5edee50/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/taross/.android/build-cache/eb3a8b7642661e4ecdaedee1c92330e5a58605b2/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/taross/.android/build-cache/83801511358473b1d3172ae1c399e18156c1f19e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/taross/.android/build-cache/88e83ce8a490f89632625663b2128cfbdb48a144/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/taross/.android/build-cache/dd673682e7964ee8461db3f5d868c1c94624c247/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/taross/.android/build-cache/72e1ef79597e8606b51210daa17bf77a167396a0/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/taross/.android/build-cache/a324fb4ed4dda69123b91552e14798f777c9ea81/output/AndroidManifest.xml:19:5-21:19
 MERGED from [com.android.support:support-v4:25.3.1] /Users/taross/.android/build-cache/3cd4cff58e99e0b8aeee14e14b33b92a773b293f/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/taross/.android/build-cache/9cbc9ddde4d79ff408eaa6f9bfd790db3068d606/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/taross/.android/build-cache/18aa89b6c268f33fe82c89aeffe907091baa833d/output/AndroidManifest.xml:29:5-20
@@ -88,13 +100,25 @@ ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.x
 	android:name
 		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:32:13-38
 activity#com.example.taross.jinkawa_android.EventDetailActivity
-ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:35:9-38:81
+ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:35:9-38:72
 	android:label
 		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:37:13-64
 	android:theme
 		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:38:13-69
 	android:name
 		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:36:13-48
+activity#com.example.taross.jinkawa_android.ParticipantsListActivity
+ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:39:9-62
+	android:name
+		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:39:19-59
+activity#com.example.taross.jinkawa_android.EntryActivity
+ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:40:9-51
+	android:name
+		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:40:19-48
+activity#com.example.taross.jinkawa_android.EventCreateActivity
+ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:41:9-66
+	android:name
+		ADDED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml:41:19-54
 uses-sdk
 INJECTED from /Users/taross/Projects/Jinkawa-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taross/.android/build-cache/bfce0452ff82b8eba21ab584e6764d5fdbaf3e38/output/AndroidManifest.xml:5:5-7:41
@@ -104,6 +128,15 @@ MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/taross/
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/taross/.android/build-cache/97c360023c178c2cdce909a5e033aed3c0f1f6ee/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/taross/.android/build-cache/aa0ce47b649163f3291f3459d3fcf08795a95341/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:transition:25.3.1] /Users/taross/.android/build-cache/5e9a64fea07bee4287554ce4a0b41add466f8342/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/taross/.android/build-cache/c2a94aa2882beb1ae723dbcabf6a3c80b5edee50/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/taross/.android/build-cache/4acf61d3a5937efcbb13c3af568566ccdc6bd389/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/taross/.android/build-cache/eb3a8b7642661e4ecdaedee1c92330e5a58605b2/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/taross/.android/build-cache/83801511358473b1d3172ae1c399e18156c1f19e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/taross/.android/build-cache/88e83ce8a490f89632625663b2128cfbdb48a144/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/taross/.android/build-cache/dd673682e7964ee8461db3f5d868c1c94624c247/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/taross/.android/build-cache/72e1ef79597e8606b51210daa17bf77a167396a0/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/taross/.android/build-cache/a324fb4ed4dda69123b91552e14798f777c9ea81/output/AndroidManifest.xml:17:5-43
 MERGED from [com.android.support:support-v4:25.3.1] /Users/taross/.android/build-cache/3cd4cff58e99e0b8aeee14e14b33b92a773b293f/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/taross/.android/build-cache/9cbc9ddde4d79ff408eaa6f9bfd790db3068d606/output/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/taross/.android/build-cache/18aa89b6c268f33fe82c89aeffe907091baa833d/output/AndroidManifest.xml:21:5-23:63
@@ -135,3 +168,31 @@ MERGED from [com.android.support:support-compat:25.3.1] /Users/taross/.android/b
 		ADDED from [com.android.support:design:25.3.1] /Users/taross/.android/build-cache/9064d4c65198f12d207b1c80b96c3b46d146cb5b/output/AndroidManifest.xml:27:9-31
 	android:name
 		ADDED from [com.android.support:design:25.3.1] /Users/taross/.android/build-cache/9064d4c65198f12d207b1c80b96c3b46d146cb5b/output/AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/taross/.android/build-cache/c2a94aa2882beb1ae723dbcabf6a3c80b5edee50/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/taross/.android/build-cache/c2a94aa2882beb1ae723dbcabf6a3c80b5edee50/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/taross/.android/build-cache/c2a94aa2882beb1ae723dbcabf6a3c80b5edee50/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/taross/.android/build-cache/eb3a8b7642661e4ecdaedee1c92330e5a58605b2/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/taross/.android/build-cache/eb3a8b7642661e4ecdaedee1c92330e5a58605b2/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/taross/.android/build-cache/eb3a8b7642661e4ecdaedee1c92330e5a58605b2/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/taross/.android/build-cache/eb3a8b7642661e4ecdaedee1c92330e5a58605b2/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/taross/.android/build-cache/a324fb4ed4dda69123b91552e14798f777c9ea81/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/taross/.android/build-cache/a324fb4ed4dda69123b91552e14798f777c9ea81/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/taross/.android/build-cache/a324fb4ed4dda69123b91552e14798f777c9ea81/output/AndroidManifest.xml:20:20-65

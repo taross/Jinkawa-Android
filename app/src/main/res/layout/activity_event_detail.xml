@@ -15,8 +15,8 @@
         android:layout_height="wrap_content"
         android:background="@color/jipriMainColor"
         android:minHeight="?attr/actionBarSize"
-        android:title="イベント詳細"
         android:titleTextColor="@color/white"
+        android:title="イベント詳細"
         android:popupTheme="@style/PopupOverlay"/>
 
     <ImageView
@@ -48,6 +48,7 @@
         android:inputType="textPersonName"
         android:text="未定" />
 
+
     <TextView
         android:id="@+id/detail_capacity"
         android:layout_width="match_parent"
@@ -55,4 +56,10 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:text="上限なし" />
+
+    <Button
+        android:id="@+id/button_entry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="行きたい！" />
 </LinearLayout>

@@ -10,11 +10,13 @@ import android.support.v7.widget.Toolbar
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
+import android.widget.Button
 import android.widget.TextView
 import com.example.taross.model.Event
 
 class EventDetailActivity : AppCompatActivity() {
 
+    val event :Event by lazy { intent.getParcelableExtra<Event>(ITEM_EXTRA) }
     companion object {
         private const val ITEM_EXTRA = "item"
 
@@ -25,8 +27,6 @@ class EventDetailActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_event_detail)
-
-        val event:Event = intent.getParcelableExtra(ITEM_EXTRA)
 
         val toolBar = findViewById(R.id.detail_toolbar) as Toolbar
         toolBar.title = event.title
@@ -44,6 +44,11 @@ class EventDetailActivity : AppCompatActivity() {
         val capacityTextView = findViewById(R.id.detail_capacity) as TextView
         capacityTextView.text = event.capacity
 
+        val entryButton = findViewById(R.id.button_entry) as Button
+        entryButton.setOnClickListener({
+            startActivity(Intent(applicationContext, EntryActivity::class.java).putExtra("EVENT_ID_EXTRA", event.id))
+        })
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
@@ -60,7 +65,7 @@ class EventDetailActivity : AppCompatActivity() {
 
 
         if (id == R.id.action_settings) {
-            startActivity(Intent(applicationContext,ParticipantsListActivity::class.java))
+            startActivity(Intent(applicationContext,ParticipantsListActivity::class.java).putExtra("EVENT_EXTRA", event))
             return true
         }
 

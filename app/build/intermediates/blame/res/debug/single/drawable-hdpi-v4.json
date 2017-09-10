@@ -20,6 +20,10 @@
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
@@ -36,6 +40,10 @@
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
@@ -50,6 +58,10 @@
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/res/drawable-hdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
@@ -84,6 +96,10 @@
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
@@ -94,6 +110,10 @@
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
@@ -156,6 +176,10 @@
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
     },
@@ -178,6 +202,10 @@
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
         "source": "/Users/taross/.android/build-cache/dfb5bad3fa3599f79e8836b2a935a46c199ff95d/output/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/taross/.android/build-cache/44481ab743cdba42400a4ef0d7b2683f3324c212/output/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Users/taross/Projects/Jinkawa-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
