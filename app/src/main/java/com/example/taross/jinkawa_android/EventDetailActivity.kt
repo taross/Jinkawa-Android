@@ -65,7 +65,7 @@ class EventDetailActivity : AppCompatActivity() {
 
 
         if (id == R.id.action_settings) {
-            startActivity(Intent(applicationContext,ParticipantsListActivity::class.java).putExtra("EVENT_ID_EXTRA", event.id))
+            startActivity(Intent(applicationContext,ParticipantsListActivity::class.java).putExtra("EVENT_EXTRA", event))
             return true
         }
 

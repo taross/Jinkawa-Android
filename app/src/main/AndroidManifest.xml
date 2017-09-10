@@ -38,7 +38,8 @@
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity android:name=".ParticipantsListActivity" />
         <activity android:name=".EntryActivity" />
-        <activity android:name=".EventCreateActivity"></activity>
+        <activity android:name=".EventCreateActivity" />
+        <activity android:name=".NoticeCreateActivity"></activity>
     </application>
 
 </manifest>

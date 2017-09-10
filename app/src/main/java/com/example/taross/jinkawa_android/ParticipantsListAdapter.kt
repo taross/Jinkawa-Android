@@ -8,6 +8,7 @@ import com.example.taross.view.EventItemView
 import com.nifty.cloud.mb.core.NCMBObject
 import com.nifty.cloud.mb.core.NCMBQuery
 import android.content.Context
+import com.example.taross.model.Event
 
 import  com.example.taross.view.ParticipantItemView
 
@@ -57,4 +58,7 @@ class ParticipantsListAdapter(private val context: Context):BaseAdapter(){
         this.items = items.filter { it.eventId == eventId }.toMutableList()
     }
 
+    fun listExport(event: Event){
+        CsvHelper.csvListOutput(event, items);
+    }
 }
