@@ -65,6 +65,8 @@ class ListActivity : AppCompatActivity() {
             fab.setOnClickListener {
                 if(mViewPager.currentItem == 0) {
                     startActivity(Intent(applicationContext, EventCreateActivity::class.java))
+                }else if(mViewPager.currentItem == 1){
+                    startActivity(Intent(applicationContext, NoticeCreateActivity::class.java))
                 }
             }
         }

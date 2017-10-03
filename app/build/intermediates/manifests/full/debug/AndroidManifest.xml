@@ -53,6 +53,7 @@
         <activity android:name="com.example.taross.jinkawa_android.ParticipantsListActivity" />
         <activity android:name="com.example.taross.jinkawa_android.EntryActivity" />
         <activity android:name="com.example.taross.jinkawa_android.EventCreateActivity" />
+        <activity android:name="com.example.taross.jinkawa_android.NoticeCreateActivity" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

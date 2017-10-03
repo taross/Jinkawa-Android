@@ -30,7 +30,10 @@ class EventDetailActivity : AppCompatActivity() {
 
         val toolBar = findViewById(R.id.detail_toolbar) as Toolbar
         toolBar.title = event.title
-        setSupportActionBar(toolBar)
+
+        if(LoginManager.isLogin){
+            setSupportActionBar(toolBar)
+        }
 
         val departmentTextView = findViewById(R.id.detail_department_name) as TextView
         departmentTextView.text = event.department
